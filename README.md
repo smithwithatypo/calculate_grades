@@ -2,6 +2,7 @@
 
 ## To run this program:
 1. Open your terminal
+1. Navigate to the directory you want to save this to
 2. Clone the repository:
     ```bash
     git clone git@github.com:smithwithatypo/calculate_grades.git
