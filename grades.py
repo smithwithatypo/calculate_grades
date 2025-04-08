@@ -10,12 +10,11 @@ q8 = 6
 # q9 = 8
 # q10 = 8
 
-
 quizzes = [q1, q2, q3, q4, q5, q6, q7, q8]   # current
 # quizzes = [q1, q2, q3, q4, q5, q6, q7, q8, q9, q10]   # final
 
 
-# TEsTS
+# TESTS
 test1 = 69
 test2 = 70
 
